@@ -1,5 +1,6 @@
 from dockerinit:latest
 
+MAINTAINER coeus <zhanghui026@gmail.com>
 
 # 加sudo
 
